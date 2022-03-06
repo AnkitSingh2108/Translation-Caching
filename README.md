@@ -33,9 +33,6 @@ npm install
 ```
 # Run in development mode
 npm run devStart
-
-# Run in production mode
-npm start
 ```
 
 ## Usage
